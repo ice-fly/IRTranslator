@@ -1,0 +1,20 @@
+# Edifier 'RC1DE' IR remote codes used for Edifier R1280DB Speakers
+
+
+IR Protocol identified as 8E7807F -> NEC
+
+
+- Power: 0x8E7807F
+- Mute: 0x8E700FF
+- volume down: 0x8E730CF
+- volume up: 0x8E7906F
+- Line 1: 0x8E750AF
+- Line 2: 0x8E7A857
+- OPT: 0x8E7B04F
+- COX: 0x8E76897
+- BT: 0x8E7708F
+- Play/Pause: 0x8E728D7
+- next: 0x8E710EF
+- previous: 0x8E7609F
+
+Verified with WLED strip
